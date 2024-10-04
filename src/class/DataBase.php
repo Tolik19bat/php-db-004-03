@@ -78,4 +78,3 @@ abstract class Database implements DatabaseWrapper
         return $stmt->execute([$id]);
     }
 }
-

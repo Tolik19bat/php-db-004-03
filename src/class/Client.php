@@ -1,6 +1,7 @@
 <?php
 
 namespace src\class;
+use PDO;
 
 // Класс для работы с таблицей "client", который наследуется от абстрактного класса Database
 class Client extends Database

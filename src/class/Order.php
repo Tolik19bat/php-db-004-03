@@ -1,6 +1,7 @@
 <?php
 
 namespace src\class;
+use PDO;
 
 // Класс для работы с таблицей "order", который наследуется от абстрактного класса Database
 class Order extends Database
